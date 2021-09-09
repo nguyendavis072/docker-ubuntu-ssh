@@ -5,7 +5,7 @@ EXPOSE 3000
 
 ENV DEBIAN_FRONTEND=noninteractive \
     USER=ubuntu \
-    PASS=ubuntu
+    PASS=11121988
 
 # no Upstart or DBus
 # https://github.com/dotcloud/docker/issues/1724#issuecomment-26294856
